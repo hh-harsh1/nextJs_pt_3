@@ -5,6 +5,12 @@ const page = () => {
     <div>
       hi there
       <p>hello there</p>
+      <ul>
+        <li>hi </li>
+        <li>hello</li>
+        <li>how are you</li>
+        <li></li>
+      </ul>
     </div>
   );
 };
